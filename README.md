@@ -30,4 +30,4 @@ Make sure the script has execute permissions:
 
 chmod +x start-zap-and-run.sh
 
-___You can find setup instructions inside [setup.md](./setup.md). Please finish the setup before interview.___ 
+___You can find setup instructions inside [setup.md](./setup.md).___ 
