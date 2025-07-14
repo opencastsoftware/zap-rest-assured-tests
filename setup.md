@@ -5,7 +5,7 @@
 
 
 2. **Request Admin Rights**  
-   If you need admin privileges, follow the instructions here:  
+   If you need admin privileges, follow the instructions. Please enter Opencast email id when prompted:  
    [Requesting Admin rights](https://opencastsoftware.atlassian.net/wiki/spaces/IKB/pages/4285857794/Guide+-+Requesting+Admin+rights)
 
 
