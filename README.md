@@ -25,7 +25,7 @@ To start OWASP ZAP and run the tests automatically, execute:
 ./start-zap-and-run.sh
 ```
 
-This script will launch ZAP as a proxy and then execute your test suite.
+This script will launch ZAP as a proxy, execute your test suite and then stops ZAP.
 Make sure the script has execute permissions:
 
 chmod +x start-zap-and-run.sh
