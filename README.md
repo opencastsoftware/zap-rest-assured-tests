@@ -30,4 +30,7 @@ Make sure the script has execute permissions:
 
 chmod +x start-zap-and-run.sh
 
+## Zap vulnerability report
+After the tests complete, a zap-report.html file is generated with the security test results.
+
 ___You can find setup instructions inside [setup.md](./setup.md).___ 
